@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/multilanguage-invoice-extractor.git
+git clone https://github.com/ivats2911/multilanguage-invoice-extractor.git
 Navigate to the project directory:
 
 bash
